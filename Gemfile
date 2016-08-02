@@ -6,7 +6,7 @@ gem 'rails', '4.2.6'
 # bootstrap for design work
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 #serves js, cs, css, sass, and scss. Assest packaging system. 
-gem 'sprockets', '~> 4.0.0.beta2'
+gem 'sprockets-rails', '~> 3.1', '>= 3.1.1'
 #to secure password
 gem 'bcrypt-ruby', '~> 3.1', '>= 3.1.5'
 #Faker, a port of Data::Faker from Perl, is used to easily generate fake data: names, addresses, phone numbers, etc.
